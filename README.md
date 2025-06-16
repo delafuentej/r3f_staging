@@ -6,6 +6,13 @@ We start with a **Tesla Model 3** as our base model and explore how to turn a ba
 
 ---
 
+## 🚀 Live Demo
+
+👉 **Check out the live version here:**  
+🔗 [https://your-project-name.vercel.app](https://r3f-staging.vercel.app/)
+
+---
+
 ## ✨ Project Goal
 
 > “While the content of a scene is important, the way it's presented can make a huge difference.”
@@ -23,7 +30,8 @@ In this lesson, we learned:
 ### Clone the project
 
 ```bash
-git clone https://github.com/your-username/react-three-fiber-starter.git
-cd react-three-fiber-starter
-npm install
+git clone https://github.com/delafuentej/r3f_staging.git
+cd r3f_staging
+yarn install
+yarn dev
 ```
